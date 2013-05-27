@@ -1,2 +1,3 @@
-Wordpress-Single-Post-type-via-slug
-===================================
+Wordpress: Serve a single post template (single-{slug}.php)
+===========================================================
+
